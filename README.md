@@ -2,7 +2,8 @@
  
 ## About The Project
 
-* This tool can check http response recursively using list of domains 
+* This tool can check http response recursively using list of domains.
+* This tool is able to save output to a .txt file.
  
 ## Table of Contents
 
