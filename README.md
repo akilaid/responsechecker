@@ -1,6 +1,8 @@
  <h1 align="center">Response Checker Tool</h3>
+ 
 ## About The Project
- * This tool can check http response recursively using list of domains 
+
+* This tool can check http response recursively using list of domains 
  
 ## Table of Contents
 
