@@ -1,4 +1,4 @@
-Response Checker
+Response Checker Tool
 This tool can check http response using curl 
 
 Install curl if you don't have curl
