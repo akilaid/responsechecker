@@ -1,7 +1,8 @@
  <h1 align="center"><u>Response Checker Tool</u></h3>
  
+ 
  <a href="https://github.com/akilaid/responsechecker/">
-    <img src="images/termux.jpg" alt="Logo">
+    <img src="images/termux.jpg" alt="Logo" width="50%" height="50%">
   </a>
  
 ## About The Project
