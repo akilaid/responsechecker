@@ -19,7 +19,6 @@ Install curl if you don't have curl and git.
 apt-get install curl -y
 apt-get install git -y
 ```
-
 * for termux users(Android)
 ```sh
 pkg install curl
@@ -49,8 +48,6 @@ chmod +x 200OK.sh
 ```
 2. Host list file: name of your host list file
 3. Output file: name for output file (It will be automatically created)
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Then what?
 
