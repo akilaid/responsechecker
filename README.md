@@ -21,21 +21,17 @@ apt-get install git -y
 
 ### Installation
 
-1. Download using git clone
+1. Clone the repo using git clone
 ```sh
 git clone https://github.com/akilaid/responsechecker.git
 ```
-2. Clone the repo
+2. Change directory to repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+cd responsechecker
 ```
-3. Install NPM packages
+3. Change permission of `200OK.sh`
 ```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
+chmod +x 200OK.sh
 ```
 
 
