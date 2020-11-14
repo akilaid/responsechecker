@@ -1,4 +1,4 @@
- <h1 align="center"><u>Response Checker Tool</u></h1>
+ <h1 align="center"><u>HTTP Response Checker Tool</u></h1>
  
  
  <a href="https://github.com/akilaid/responsechecker/">
