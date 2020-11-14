@@ -1,4 +1,4 @@
- <h3 align="center">Response Checker Tool</h3>
+ <h1 align="center">Response Checker Tool</h3>
 
 ## Table of Contents
 
