@@ -1,4 +1,4 @@
- <h3 align="center"><u>Response Checker Tool</u></h3>
+ <h1 align="center"><u>Response Checker Tool</u></h1>
  
  
  <a href="https://github.com/akilaid/responsechecker/">
@@ -60,5 +60,6 @@ chmod +x 200OK.sh
 * Results will print verbosely  
 * Also it will be saved in the output file.
 
+## That's all!
 
 [product-screenshot]: images/termux.jpg
