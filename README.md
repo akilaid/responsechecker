@@ -2,7 +2,7 @@
  
  
  <a href="https://github.com/akilaid/responsechecker/">
-    <img src="images/termux.jpg" alt="Logo" width="1210" height="519">
+    <img src="images/termux.jpg" alt="Logo" width="70%" height="70%">
   </a>
  
 ## About The Project
