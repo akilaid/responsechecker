@@ -12,8 +12,9 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* 
+Install curl if you don't have curl and git.
+
+* using apt
 ```sh
 apt-get install curl -y
 apt-get install git -y
