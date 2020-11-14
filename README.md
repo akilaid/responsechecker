@@ -1,4 +1,4 @@
- <h1 align="center">Response Checker Tool</h3>
+ <h1 align="center"><u>Response Checker Tool</u></h3>
  
  <a href="https://github.com/github_username/repo_name">
     <img src="images/termux.jpg" alt="Logo">
