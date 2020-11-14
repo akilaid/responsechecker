@@ -51,7 +51,8 @@ chmod +x 200OK.sh
 
 ## Then what ?
 
-* Results will print verbosely and it will be saved in the output file.
+* Results will print verbosely  
+* Also it will be saved in the output file.
 
 
 
