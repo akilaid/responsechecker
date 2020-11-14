@@ -14,7 +14,6 @@
 
 Install curl if you don't have curl and git.
 
-* using apt
 ```sh
 apt-get install curl -y
 apt-get install git -y
@@ -22,7 +21,10 @@ apt-get install git -y
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Download using git clone
+```sh
+git clone https://github.com/akilaid/responsechecker.git
+```
 2. Clone the repo
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
