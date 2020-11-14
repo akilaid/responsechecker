@@ -18,7 +18,7 @@
 
 ### Prerequisites
 
-Install curl if you don't have curl and git.
+Install curl and git if you don't have:
 
 * Using apt-get
 ```sh
@@ -41,7 +41,7 @@ git clone https://github.com/akilaid/responsechecker.git
 ```sh
 cd responsechecker
 ```
-3. Change permission of `200OK.sh`
+3. Make it executable`200OK.sh`
 ```sh
 chmod +x 200OK.sh
 ```
