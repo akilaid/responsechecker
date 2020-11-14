@@ -49,8 +49,9 @@ chmod +x 200OK.sh
 2. Host list file: name of your host list file
 3. Output file: name for output file (It will be automatically created)
 
-## Then what?
+## Then what ?
 
+* Results will print verbosely and it will be saved in the output file.
 
 
 
