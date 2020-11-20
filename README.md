@@ -52,8 +52,8 @@ chmod +x 200OK.sh
 ```sh
 ./200OK.sh example-host.txt output-file-name.txt
 ```
-2. Host list file: name of your host list file
-3. Output file: name for output file (It will be automatically created)
+2. Host list file: name of your host list file. Here mine is `example-host.txt`.
+3. Output file: name for output file. Here mine is `output-file-name.txt` (It will be automatically created)
 
 ## Then what ?
 
