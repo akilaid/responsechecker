@@ -50,7 +50,7 @@ chmod +x 200OK.sh
 
 1. Run the script
 ```sh
-./200OK.sh
+./200OK.sh example-host.txt output-file-name.txt
 ```
 2. Host list file: name of your host list file
 3. Output file: name for output file (It will be automatically created)
@@ -62,4 +62,4 @@ chmod +x 200OK.sh
 
 ## That's all!
 
-[product-screenshot]: images/termux.jpg
+[product-screenshot]: images/termux.png
